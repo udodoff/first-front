@@ -1,2 +1,2 @@
-# first-site
-мой первый одностраничный адаптивный сайт 
+# first-front
+The first single-page adaptive front-end
